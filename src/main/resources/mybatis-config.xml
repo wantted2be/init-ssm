@@ -9,6 +9,6 @@
 
     <!--引入映射文件-->
     <mappers>
-        <package name="com.company.ssm.dao"/>
+        <mapper resource="com/company/ssm/dao/BookMapper.xml"/>
     </mappers>
 </configuration>
